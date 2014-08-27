@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-boilerplate",
+  "name": "jsonresume-theme-cambrian",
   "version": "0.1.0",
-  "description": "Boilerplate theme for JSON Resume",
-  "author": "Mattias Erming",
+  "description": "JSON Resume theme for print with Cambria font and horizontal rules",
+  "author": "Anwell Wang",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erming/jsonresume-theme-boilerplate"
+    "url": "https://github.com/anwell/jsonresume-theme-cambrian"
   },
   "license": "MIT",
   "dependencies": {
